@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.gingytech.ikey",
+    "sha256_cert_fingerprints":
+    ["2E:3E:FB:CC:32:4C:BE:16:79:53:C0:67:52:73:25:10:0F:D9:A8:70:58:E8:68:28:D0:F7:BA:0F:CB:E5:84:CC"]
+  }
+}]
